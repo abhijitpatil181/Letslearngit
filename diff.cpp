@@ -3,9 +3,9 @@ using namespace std;
 
 
 int main(){
-    int n;
+    int a,b;
     cout<<"Enter a  number:"<<endl;
-    cin>>n;
-    cout<<n<<endl;
+    cin>>a>>b;
+    cout<<(a-b)<<endl;
 
 }
